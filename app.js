@@ -1,2 +1,5 @@
-console.log("this is the login page")
+console.log("this is the home page");
+
+console.log("New Feature added");
+
 
